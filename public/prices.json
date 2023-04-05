@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Fitness First",
+      "price": "$99",
+      "features": [
+        "Swimming pool",
+        "Sauna",
+        "Group fitness classes",
+        "Personal training",
+        "Free weights area",
+        "Cardio machines"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gold's Gym",
+      "price": "$79",
+      "features": [
+        "Weight machines",
+        "Treadmills",
+        "Ellipticals",
+        "Group fitness classes",
+        "Personal training"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "24 Hour Fitness",
+      "price": "$129",
+      "features": [
+        "Basketball court",
+        "Swimming pool",
+        "Hot tub",
+        "Sauna",
+        "Group fitness classes",
+        "Personal training",
+        "Cardio machines"
+      ]
+    }
+  ]
+  
